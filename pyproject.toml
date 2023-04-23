@@ -8,6 +8,7 @@ license = "none"
 [tool.poetry.dependencies]
 python = "^3.8"
 networkx = "^3.1"
+igraph = "^0.10.4"
 
 [tool.poetry.dev-dependencies]
 networkx = "^3.1"
